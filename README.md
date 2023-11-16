@@ -1,4 +1,4 @@
-﻿# Cloud Term of the Day
+﻿# Cloud Term for the Day
 
 1. Dedicated Host
 
